@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farouk</h1>
 <h3 align="center">A passionate developer from Algeria</h3>
 
-- 🔭 I’m currently working on **IDStamp**
+- 🔭 I’m currently working on **DepanoApp**
 
-- 🌱 I’m currently learning **ReactJs, ExpressJs**
+- 🌱 I’m currently learning **React Native, Expo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
