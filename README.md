@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farouk</h1>
 <h3 align="center">A passionate developer from Algeria</h3>
 
-- 🔭 I’m currently working on **Capify**
-
-- 🌱 I’m currently learning **Remix, Shopify Apps Dev**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/itisbens" target="blank">
